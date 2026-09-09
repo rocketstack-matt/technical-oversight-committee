@@ -2,7 +2,7 @@
 
 **Status:** Accepted
 **Date:** 2026-08-13
-**Deciders:** TOC members (via [#308](https://github.com/finos/technical-oversight-committee/issues/308))
+**Deciders:** Staff, with input from TOC members (via [#308](https://github.com/finos/technical-oversight-committee/issues/308))
 **Related:** [#308](https://github.com/finos/technical-oversight-committee/issues/308), [#306](https://github.com/finos/technical-oversight-committee/pull/306), [FINOS software-project-blueprint MAINTAINERS.md](https://github.com/finos/software-project-blueprint/blob/main/MAINTAINERS.md)
 
 ## Context
